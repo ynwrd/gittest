@@ -1,7 +1,7 @@
 {
 	"status": {
-		"returnCode": 1,
-		"msg": "查询成功"
+		"returnCode": 0,
+		"msg": "查询失败"
 	},
 	"data": {
 		"page": {
@@ -17,7 +17,7 @@
 			"status": 状态,
 			"collectionTime": 收藏时间,
 			"sort": 排序,
-			"linkUrl":访问地址的URL
+			"linkUrl":访问地址的URL啊
 		},...]
 	}
 }
